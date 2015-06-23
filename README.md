@@ -6,6 +6,10 @@ use Luhn algorithm when generate a serial number.
 (for avoiding a user mistake input this)
 
 ## How to use
+install via npm
+```
+npm install generate-serial-number
+```
 
 ```
 var generator = require('generate-serial-number');
