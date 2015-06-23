@@ -1,5 +1,5 @@
 {
-  "name": "node-generate-serial-number",
+  "name": "generate-serial-number",
   "version": "0.0.1",
   "description": "generate serial number library",
   "main": "index.js",
